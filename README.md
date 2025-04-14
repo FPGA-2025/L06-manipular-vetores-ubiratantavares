@@ -22,7 +22,7 @@ A título de exemplo, os antigos mainframes da IBM utilizavam o formato Big Endi
 
 ## Trocar a endianess da palavra
 
-A atividade aqui proposta consiste em receber uma palavra de 4 bytes (32 bits) e inverter a endianess dessa palavra. Se a palavra chegou como 0x11223344, ela deve sair como 0x44332211. Isso quer dizer que os bytes de índice menor serão colocados em partes do vetor de íncice maior e vice-versa. Não é necessária mais nehuma operação sobre a palavra. Basta inverter os bytes e mostrar na saída.
+A atividade aqui proposta consiste em receber uma palavra de 4 bytes (32 bits) e inverter a endianess dessa palavra. Se a palavra chegou como 0x11223344, ela deve sair como 0x44332211. Isso quer dizer que os bytes de índice menor serão colocados em partes do vetor de índice maior e vice-versa. Não é necessária mais nehuma operação sobre a palavra. Basta inverter os bytes e mostrar na saída.
 
 ## Execução da atividade
 
